@@ -1,0 +1,56 @@
+{
+    "welcome": "Hoş geldiniz",
+    "login": "Giriş Yap",
+    "Emlak": "Emlak",
+  "Token Page": "Token Sayfası",
+  "Template Page": "Şablon Sayfası",
+  "Estate Add Page": "Emlak Ekle",
+  "Estate Add": "Emlak Kayıt Ekle ",
+  "Estate List Page": "Emlak Listesi",
+  "Estate Map Page": "Emlak Haritası",
+  "Currency Page": "Para Birimi Sayfası",
+  "Status Page": "Statü Sayfası",
+  "Estate Type Page": "Emlak Türü Sayfası",
+  "Logout":"Çıkış",
+  "Add Currency": "Para Birimi Ekle",
+    "Currencies":"Para Birimleri",
+    "Currency Type":"Para Birimi",
+    "Actions":"Aksiyonlar",
+    "Add Status": "Statü Ekle",
+    "Statuses":"Statüler",
+    "Status Name":"Statü",
+    "Add Estate Type": "Emlak Tipi Ekle",
+    "Estate Types":"Emlak Tipleri",
+    "Estate Type Name":"Emlak Tipi",
+    "Home":"Ana Sayfa",
+    "Total Estate Number":"Toplam Emlak Sayısı",
+    "Villa":"Villa",
+    "Flat":"Daire",
+    "Land":"Arsa",
+    "Update Estate":"Emlak Kayıt Güncelle",
+    "Delete Estate":"Emlak Kayıt Sil",
+    "Upload Photos":"Fotoğraf Yükle",
+    "Edit Estate":"Emlak Kayıt Düzenle ",
+    "Estate Name":"Emlak Adı",
+    "Price Name":"Fiyat",
+    "Start Date":"Başlangıç Tarihi",
+     "End Date":"Bitiş Tarihi",
+     "Photos":"Fotoğraflar",
+     "No files selected":"Dosya seçilmedi",
+     "files selected":" dosya seçildi",
+     "Latitude":"Enlem",
+     "Longitude":"Boylam",
+     "No photos found":"Fotoğraf bulunamadı",
+     "Close":"Kapat",
+     "Estate Details":"Emlak Detayları",
+     "Estate List":"Emlak Kayıt Listesi"
+
+
+
+
+
+
+
+
+  }
+  

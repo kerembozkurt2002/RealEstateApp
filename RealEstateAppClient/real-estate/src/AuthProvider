@@ -1,0 +1,34 @@
+// AuthProvider.js
+import React, { createContext, useContext, useState } from 'react';
+
+const AuthContext = createContext();
+
+export const useAuth = () => {
+  return useContext(AuthContext);
+};
+
+const AuthProvider = ({ children }) => {
+  const [auth, setAuth] = useState(null);
+
+  const login = (user) => {
+    setAuth(user);
+  };
+
+  const logout = () => {
+    setAuth(null);
+  };
+
+  const value = {
+    auth,
+    login,
+    logout
+  };
+
+  return (
+    <AuthContext.Provider value={value}>
+      {children}
+    </AuthContext.Provider>
+  );
+};
+
+export default AuthProvider;
