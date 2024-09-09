@@ -46,6 +46,15 @@ RealEstateApp is a full-stack real estate management application built using .NE
 * **Dashboard:**
 
   * A user-friendly dashboard for viewing properties, statistics, and other details.
+ 
+
+## Diagrams
+* **Database Diagram**
+
+* **JWT Token Based Auth Diagram**
+
+
+
 ## Installation
 * Clone the repository:
 
