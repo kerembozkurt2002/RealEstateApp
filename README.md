@@ -91,7 +91,7 @@ dotnet run
 * Install the necessary frontend dependencies:
 
 ```
-cd RealEstateApp.Web
+cd cd .\RealEstateAppClient\real-estate
 npm install
 ```
 * Start the React development server:
